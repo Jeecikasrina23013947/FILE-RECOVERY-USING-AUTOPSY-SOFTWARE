@@ -80,7 +80,7 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 #### Extracting the deleted images using autopsy
 
-<img width="1291" height="1018" alt="Screenshot 2025-08-21 144144" src="https://github.com/user-attachments/assets/ed5c5c0c-3c29-4a35-a334-731a9976393b" />
+<img width="1291" height="1018" alt="Screenshot 2025-08-21 144144" src="<img width="1366" height="710" alt="d" src="https://github.com/user-attachments/assets/15e555e7-5d0b-4105-bbf6-2c98ae8613da" />" />
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
